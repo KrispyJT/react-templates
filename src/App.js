@@ -3,7 +3,7 @@ import './App.css';
 import TestComponent from "./components/TestComponent";
 
 const Comp = () => {
-  return <p>This is a comp component</p>
+  return <p>MY DEMO</p>
 }
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          THIS IS MY TEMPLATES
         </a>
       </header>
     </div>

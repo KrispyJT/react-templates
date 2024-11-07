@@ -1,4 +1,5 @@
 {
+  "homepage": "http://KrispyJT.github.io/react-templates",
   "name": "template-react",
   "version": "0.1.0",
   "private": true,
@@ -62,6 +63,7 @@
     "concurrently": "^7.3.0",
     "cypress-react-selector": "^3.0.0",
     "gh-pages": "^5.0.0",
+    "install": "^0.13.0",
     "start-server-and-test": "^1.14.0"
   }
 }
