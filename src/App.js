@@ -12,19 +12,8 @@ function App() {
             <TestComponent />
 
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <Comp />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          THIS IS MY TEMPLATES
-        </a>
+        <h1>THIs is the template</h1>
+  
       </header>
     </div>
   );
